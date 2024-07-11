@@ -1,1 +1,3 @@
 Welcome to the Gitup learning!!!!
+
+Successfull cloned the project from GitHub.
